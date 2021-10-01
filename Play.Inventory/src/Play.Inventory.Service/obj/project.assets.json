@@ -501,6 +501,15 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "Play.Catalog.Contracts/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {}
+        }
+      },
       "Play.Common/1.0.2": {
         "type": "package",
         "dependencies": {
@@ -2478,6 +2487,18 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "Play.Catalog.Contracts/1.0.0": {
+      "sha512": "ya1z8QK42s/WM2DHOYLbNN912FuDO7LbDPBLbbG44wiHTxn3B8HgozU0ekpcFAa33U8GCW2WwnrZjViT+KCzyw==",
+      "type": "package",
+      "path": "play.catalog.contracts/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Play.Catalog.Contracts.dll",
+        "play.catalog.contracts.1.0.0.nupkg.sha512",
+        "play.catalog.contracts.nuspec"
       ]
     },
     "Play.Common/1.0.2": {
@@ -6081,7 +6102,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.Extensions.Http.Polly >= 5.0.1",
-      "Play.Common >= 1.0.0",
+      "Play.Catalog.Contracts >= 1.0.0",
+      "Play.Common >= 1.0.2",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6092,11 +6114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectUniqueName": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "projectName": "Play.Inventory.Service",
-      "projectPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectPath": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "packagesPath": "C:\\Users\\back.end.at\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+      "outputPath": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6132,9 +6154,13 @@
             "target": "Package",
             "version": "[5.0.1, )"
           },
-          "Play.Common": {
+          "Play.Catalog.Contracts": {
             "target": "Package",
             "version": "[1.0.0, )"
+          },
+          "Play.Common": {
+            "target": "Package",
+            "version": "[1.0.2, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -6162,17 +6188,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Play.Inventory.Service зависит от Play.Common (>= 1.0.0), но Play.Common 1.0.0 не найден. Использовано наилучшее приближенное соответствие Play.Common 1.0.2.",
-      "libraryId": "Play.Common",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
+    "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
   },
   "projects": {
-    "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
+    "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectUniqueName": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "projectName": "Play.Inventory.Service",
-        "projectPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectPath": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "packagesPath": "C:\\Users\\back.end.at\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+        "outputPath": "c:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,9 +47,13 @@
               "target": "Package",
               "version": "[5.0.1, )"
             },
-            "Play.Common": {
+            "Play.Catalog.Contracts": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Play.Common": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
