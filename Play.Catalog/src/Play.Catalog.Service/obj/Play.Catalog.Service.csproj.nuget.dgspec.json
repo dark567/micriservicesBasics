@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\test\\Play.Catalog\\src\\Play.catalog.service\\Play.Catalog.Service.csproj": {}
+    "C:\\temp\\1\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "C:\\temp\\test\\Play.Catalog\\src\\Play.catalog.service\\Play.Catalog.Service.csproj": {
+    "C:\\temp\\1\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\test\\Play.Catalog\\src\\Play.catalog.service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "C:\\temp\\1\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "C:\\temp\\test\\Play.Catalog\\src\\Play.catalog.service\\Play.Catalog.Service.csproj",
+        "projectPath": "C:\\temp\\1\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\back.end.at\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\test\\Play.Catalog\\src\\Play.catalog.service\\obj\\",
+        "outputPath": "C:\\temp\\1\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,7 +59,7 @@
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.13.1, )"
+              "version": "[2.11.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

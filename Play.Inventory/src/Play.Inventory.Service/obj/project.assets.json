@@ -6081,7 +6081,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.Extensions.Http.Polly >= 5.0.1",
-      "Play.Common >= 1.0.2",
+      "Play.Common >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6092,11 +6092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectUniqueName": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "projectName": "Play.Inventory.Service",
-      "projectPath": "C:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "packagesPath": "C:\\Users\\back.end.at\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\test\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+      "outputPath": "C:\\temp\\1\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6134,7 +6134,7 @@
           },
           "Play.Common": {
             "target": "Package",
-            "version": "[1.0.2, )"
+            "version": "[1.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -6162,5 +6162,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Play.Inventory.Service зависит от Play.Common (>= 1.0.0), но Play.Common 1.0.0 не найден. Использовано наилучшее приближенное соответствие Play.Common 1.0.2.",
+      "libraryId": "Play.Common",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
