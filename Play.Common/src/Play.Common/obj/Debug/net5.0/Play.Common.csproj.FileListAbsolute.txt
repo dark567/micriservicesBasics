@@ -10,3 +10,15 @@ C:\temp\1\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCo
 C:\temp\1\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.dll
 C:\temp\1\Play.Common\src\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
 C:\temp\1\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+C:\temp\test\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+C:\temp\test\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.dll
+C:\temp\test\Play.Common\src\Play.Common\bin\Debug\net5.0\ref\Play.Common.dll
+C:\temp\test\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csprojAssemblyReference.cache
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.dll
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
+C:\temp\test\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.pdb

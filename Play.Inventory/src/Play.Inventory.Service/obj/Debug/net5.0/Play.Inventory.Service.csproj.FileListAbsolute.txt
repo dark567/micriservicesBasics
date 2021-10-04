@@ -52,3 +52,4 @@ C:\temp\test\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net5.0\Play.Inv
 C:\temp\test\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
 C:\temp\test\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Polly.dll
 C:\temp\test\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\temp\test\Play.Inventory\src\Play.Inventory.service\bin\Debug\net5.0\Play.Catalog.Contracts.dll

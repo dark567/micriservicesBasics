@@ -1,0 +1,12 @@
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\bin\Debug\net5.0\play.catalog.contracts.deps.json
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\bin\Debug\net5.0\play.catalog.contracts.dll
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\bin\Debug\net5.0\ref\play.catalog.contracts.dll
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\bin\Debug\net5.0\play.catalog.contracts.pdb
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.csprojAssemblyReference.cache
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.AssemblyInfoInputs.cache
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.AssemblyInfo.cs
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.csproj.CoreCompileInputs.cache
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.dll
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\ref\play.catalog.contracts.dll
+C:\temp\test\Play.Catalog\src\play.catalog.contracts\obj\Debug\net5.0\play.catalog.contracts.pdb
